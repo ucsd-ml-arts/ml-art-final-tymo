@@ -22,7 +22,7 @@ Your code for generating your project:
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, '.png' or whatever else is appropriate)
+- image files (`.jpg`, `.png` or whatever else is appropriate)
 - move files (uploaded to youtube or vimeo due to github file size limits)
 - ... some other form
 
