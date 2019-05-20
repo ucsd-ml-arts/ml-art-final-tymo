@@ -1,7 +1,6 @@
-# Project 3 Generative Audio
+# Project 4 Generative Visual
 
 Your Name, yourcontact@ucsd.edu
-
 (Your teammate's contact info, if appropriate)
 
 ## Abstract
@@ -23,9 +22,8 @@ Your code for generating your project:
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
+- image files (`.jpg`, '.png' or whatever else is appropriate)
+- move files (uploaded to youtube or vimeo due to github file size limits)
 - ... some other form
 
 ## Technical Notes
