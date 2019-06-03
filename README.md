@@ -23,9 +23,11 @@ Your code for generating your project:
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- move files (uploaded to youtube or vimeo due to github file size limits)
-- ... some other form
+- What you include here will very much depend on the format of your final project
+  - image files (`.jpg`, `.png` or whatever else is appropriate)
+  - 3d models
+  - move files (uploaded to youtube or vimeo due to github file size limits)
+  - ... some other form
 
 ## Technical Notes
 
