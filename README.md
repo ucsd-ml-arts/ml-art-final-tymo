@@ -6,7 +6,11 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you will use. How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+
+## Project Report
+
+Submit your project report as a pdf following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
 
 ## Model/Data
 
