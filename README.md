@@ -4,9 +4,9 @@ Your Name, yourcontact@ucsd.edu
 
 (Your teammates' contact info, if appropriate)
 
-## Abstract
+## Abstract Proposal
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you will use. How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
 
 ## Model/Data
 
@@ -26,7 +26,8 @@ Documentation of your results in an appropriate format, both links to files and 
 - What you include here will very much depend on the format of your final project
   - image files (`.jpg`, `.png` or whatever else is appropriate)
   - 3d models
-  - move files (uploaded to youtube or vimeo due to github file size limits)
+  - movie files (uploaded to youtube or vimeo due to github file size limits)
+  - audio files
   - ... some other form
 
 ## Technical Notes
