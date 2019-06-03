@@ -1,7 +1,8 @@
-# Project 4 Generative Visual
+# Final Project
 
 Your Name, yourcontact@ucsd.edu
-(Your teammate's contact info, if appropriate)
+
+(Your teammates' contact info, if appropriate)
 
 ## Abstract
 
