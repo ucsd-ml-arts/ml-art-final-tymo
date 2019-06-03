@@ -10,7 +10,7 @@ FIRST STEP: Write up a description (in the form of an abstract) of what you will
 
 ## Project Report
 
-Submit your project report as a pdf following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
+Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
 
 ## Model/Data
 
