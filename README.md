@@ -1,12 +1,13 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Tyler Farnan, tfarnan@ucsd.edu
+Mo Rahman m2rahman@ucsd.edu
 
 (Your teammates' contact info, if appropriate)
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+Wouldn't it be cool to generate guitar styles that don't yet exist? Taking inspiration from state of the art GAN results like https://thispersondoesnotexist.com/, we created a basic implementation of GuitarGAN to create images of new guitar shapes and designs.  Our creative goal is to produce photo realistic guitar images that are able to be produced in real life. For the final project we will improve the resolution of our model by 1. Expanding the dataset, and 2. Implementing transfer learning on a pre-trained state-of-the-art StyleGAN, built by Nvidia. As a third option, we could also implement a super-resolution model. We will present a brief visual presentation on various models' ability to produce real guitar images.
 
 ## Project Report
 
